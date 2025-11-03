@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0457875403105315
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0127166355405807
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0119717884935315
-'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.008484894382061299
+'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0072121602247520195
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0015934283995735
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.000108061711493
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,5.072626537952328e-05
