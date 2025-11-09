@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.2047116178659459
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1655014909419741
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,3,0.1282355365364139
-'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1079967632007212
+'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.12402084599334029
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1045815399586844
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1005315159097826
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0984268575575629
