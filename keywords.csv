@@ -4,5 +4,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Seebeben',de,Causes,#00ffff,#00ffff,2,0.5
 'Tsunami Evakuierung',de,Mitigation,#00ff00,#00ff00,2,0.5
 'Tsunami Tote',de,Impacts,#ffff00,#ffff00,2,0.5
-'Tsunami Frühwarnsystem',de,Adaptation,#0000ff,#0000ff,2,0.4427157911290322
 'Tsunami Schäden',de,Impacts,#ffff00,#ffff00,1,0.42500024
+'Tsunami Frühwarnsystem',de,Adaptation,#0000ff,#0000ff,1,0.3763084674596774
