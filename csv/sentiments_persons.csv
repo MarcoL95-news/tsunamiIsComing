@@ -1,6 +1,6 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,3,,,,,,
-Alexis Pinturault,Alexis Pinturault,PER,0.0,0.0,de,3,,,,,,
-Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,2,,,,,,
-Oskar Deutsch,Oskar Deutsch,PER,-1.0,0.0,de,2,,,,,,
-Skistar Pinturault,Skistar Pinturault,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1.0
+Skistar Pinturault,Skistar Pinturault,PER,0.0,0.0,de,1.0
+Alexis Pinturault,Alexis Pinturault,PER,0.0,0.0,de,1.0
+Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,1.0
+Oskar Deutsch,Oskar Deutsch,PER,-2.0,0.0,de,1.0

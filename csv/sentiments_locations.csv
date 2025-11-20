@@ -1,11 +1,10 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Sicherheitsdebatte,Sicherheitsdebatte,LOC,0.0,0.0,de,2,-1,,,,,
-Tsunami Lissabon,Tsunami Lissabon,LOC,0.0,0.0,de,2,-1,,,,,
-Europas,Europas,LOC,0.0,0.0,de,2,-1,,,,,
-Shoah-Namensmauer,Shoah-Namensmauer,LOC,0.0,0.0,de,2,-1,,,,,
-Japans,Japans,LOC,0.0,0.0,de,2,-1,,,,,
-Berlin,Berlin,LOC,0.0,0.0,de,1,-1,,,,,
-Ukraine,Ukraine,LOC,0.0,0.0,de,1,-1,,,,,
-Japan,Japan,LOC,0.0,0.0,de,1,-1,,,,,
-Nasa,Nasa,LOC,0.0,0.0,de,1,-1,,,,,
-töten</li><li,töten</li><li,LOC,-0.07500000000000001,0.0,de,1,-1,,,,,
+,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc
+Erdbeben,Erdbeben,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Europas,Europas,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Japans,Japans,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Atombombe,Atombombe,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Ukraine,Ukraine,LOC,0.00000000,0.00000000,de,1.00000000,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE
+Shoah-Namensmauer,Shoah-Namensmauer,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Wiener Ostarrichipark,Wiener Ostarrichipark,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Japan,Japan,LOC,0.00000000,0.00000000,de,1.00000000,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS
+Seebeben,Seebeben,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,

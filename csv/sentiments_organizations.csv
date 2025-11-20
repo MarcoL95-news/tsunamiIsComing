@@ -1,10 +1,8 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-GNTM,GNTM,ORG,0.0,0.0,de,2,,,,,,
-Kitzbühel-Sturz,Kitzbühel-Sturz,ORG,0.0,0.0,de,2,,,,,,
-Big Tech,Big Tech,ORG,0.0,0.0,de,1,,,,,,
-Gesellschaft,Gesellschaft,ORG,0.0,0.0,de,1,,,,,,
-Mossad,Mossad,ORG,0.0,0.0,de,1,,,,,,
-FIS,FIS,ORG,0.0,0.0,de,1,,,,,,
-ntv.de,ntv.de,ORG,0.0,0.0,de,1,,,,,,
-Verteidigungsministerium,Verteidigungsministerium,ORG,0.0,0.0,de,1,,,,,,
-Tsunami-Frühwarnung,Tsunami-Frühwarnung,ORG,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.9
+Big Tech,Big Tech,ORG,0.0,0.0,de,1.0
+Gesellschaft bedrohen,Gesellschaft bedrohen,ORG,0.0,0.0,de,1.0
+ntv.de,ntv.de,ORG,0.0,0.0,de,1.0
+Üb…,Üb…,ORG,-1.0,0.0,de,1.0
+rechtz…,rechtz…,ORG,-1.0,0.0,de,1.0
+Nasa,Nasa,ORG,0.0,0.0,de,1.0

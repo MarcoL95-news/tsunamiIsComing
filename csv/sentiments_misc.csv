@@ -1,17 +1,25 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Novemberpogrome,Novemberpogrome,MISC,,,de,3,,,,,,
-Designer-Handschuhe,Designer-Handschuhe,MISC,,,de,2,,,,,,
-Wiener,Wiener,MISC,,,de,2,,,,,,
-Tsunami-Warnung,Tsunami-Warnung,MISC,,,de,2,,,,,,
-KI,KI,MISC,,,de,1,,,,,,
-Google tabu,Google tabu,MISC,,,de,1,,,,,,
-Tag & Macht,Tag & Macht,MISC,,,de,1,,,,,,
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1,,,,,,
-russisches,russisches,MISC,,,de,1,,,,,,
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1,,,,,,
-russische,russische,MISC,,,de,1,,,,,,
-Chabaraowsk,Chabaraowsk,MISC,,,de,1,,,,,,
-S…,S…,MISC,,,de,1,,,,,,
-japanischen,japanischen,MISC,,,de,1,,,,,,
-Sekunden,Sekunden,MISC,,,de,1,,,,,,
-warnen</li><li,warnen</li><li,MISC,,,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Arte-Dokumentation,Arte-Dokumentation,MISC,,,de,1.0
+Tsunami“,Tsunami“,MISC,,,de,1.0
+töten</li><li,töten</li><li,MISC,,,de,1.0
+Tsunami-Frühwarnung,Tsunami-Frühwarnung,MISC,,,de,1.0
+japanischen,japanischen,MISC,,,de,1.0
+Küstenbewohner,Küstenbewohner,MISC,,,de,1.0
+Tsunami-Wellen,Tsunami-Wellen,MISC,,,de,1.0
+IKG-Präsident,IKG-Präsident,MISC,,,de,1.0
+Novemberpogrome,Novemberpogrome,MISC,,,de,1.0
+S…,S…,MISC,,,de,1.0
+Chabaraowsk,Chabaraowsk,MISC,,,de,1.0
+russische,russische,MISC,,,de,1.0
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
+“,“,MISC,,,de,1.0
+Kitzbühel-Sturz,Kitzbühel-Sturz,MISC,,,de,1.0
+Ein Tsunami“,Ein Tsunami“,MISC,,,de,1.0
+GNTM,GNTM,MISC,,,de,1.0
+Stadtbild-Tsunami,Stadtbild-Tsunami,MISC,,,de,1.0
+v…,v…,MISC,,,de,1.0
+Netflix-Algorithmus,Netflix-Algorithmus,MISC,,,de,1.0
+Google,Google,MISC,,,de,1.0
+KI,KI,MISC,,,de,1.0
+warnen</li><li,warnen</li><li,MISC,,,de,1.0
