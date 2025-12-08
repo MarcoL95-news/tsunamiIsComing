@@ -1,27 +1,30 @@
 ,phrase,label,sentiment,subjectivity,language,count
+“,“,MISC,,,de,1.9
+Tsunami-Welle,Tsunami-Welle,MISC,,,de,1.9
 Tsunami-Katastrophe von Fukushima im Jahr 2011,Tsunami-Katastrophe von Fukushima im Jahr 2011,MISC,,,de,1.9
 Arte-Dokumentation,Arte-Dokumentation,MISC,,,de,1.0
-Tsunami“,Tsunami“,MISC,,,de,1.0
-stern+,stern+,MISC,,,de,1.0
-stern+statt,stern+statt,MISC,,,de,1.0
-österreichischen,österreichischen,MISC,,,de,1.0
-Curry-Sauce,Curry-Sauce,MISC,,,de,1.0
-Die Genusskolumne,Die Genusskolumne,MISC,,,de,1.0
-Kashiwazaki-Kariwa-Akw,Kashiwazaki-Kariwa-Akw,MISC,,,de,1.0
-warnen</li><li,warnen</li><li,MISC,,,de,1.0
-töten</li><li,töten</li><li,MISC,,,de,1.0
-Tsunami-Frühwarnung,Tsunami-Frühwarnung,MISC,,,de,1.0
 japanischen,japanischen,MISC,,,de,1.0
-Küstenbewohner,Küstenbewohner,MISC,,,de,1.0
+Tsunami-Frühwarnung,Tsunami-Frühwarnung,MISC,,,de,1.0
+töten</li><li,töten</li><li,MISC,,,de,1.0
+warnen</li><li,warnen</li><li,MISC,,,de,1.0
+Kashiwazaki-Kariwa-Akw,Kashiwazaki-Kariwa-Akw,MISC,,,de,1.0
+Die Genusskolumne,Die Genusskolumne,MISC,,,de,1.0
 Tsunami-Wellen,Tsunami-Wellen,MISC,,,de,1.0
+Curry-Sauce,Curry-Sauce,MISC,,,de,1.0
+österreichischen,österreichischen,MISC,,,de,1.0
+stern+statt,stern+statt,MISC,,,de,1.0
+stern+,stern+,MISC,,,de,1.0
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.0
+Jul…,Jul…,MISC,,,de,1.0
+Küstenbewohner,Küstenbewohner,MISC,,,de,1.0
 IKG-Präsident,IKG-Präsident,MISC,,,de,1.0
+Tsunami“,Tsunami“,MISC,,,de,1.0
 Novemberpogrome,Novemberpogrome,MISC,,,de,1.0
 S…,S…,MISC,,,de,1.0
 Chabaraowsk,Chabaraowsk,MISC,,,de,1.0
 russische,russische,MISC,,,de,1.0
 russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
-“,“,MISC,,,de,1.0
 Kitzbühel-Sturz,Kitzbühel-Sturz,MISC,,,de,1.0
 Ein Tsunami“,Ein Tsunami“,MISC,,,de,1.0
 GNTM,GNTM,MISC,,,de,1.0
@@ -30,4 +33,4 @@ v…,v…,MISC,,,de,1.0
 Netflix-Algorithmus,Netflix-Algorithmus,MISC,,,de,1.0
 Google,Google,MISC,,,de,1.0
 KI,KI,MISC,,,de,1.0
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.0
+russischen,russischen,MISC,,,de,1.0
