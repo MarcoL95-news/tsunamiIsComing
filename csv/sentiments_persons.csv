@@ -1,6 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Japans Küste,Japans Küste,PER,-0.3684210526315789,0.0,de,1.9
 Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1.0
 Skistar Pinturault,Skistar Pinturault,PER,0.0,0.0,de,1.0
 Alexis Pinturault,Alexis Pinturault,PER,0.0,0.0,de,1.0
 Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,1.0
 Oskar Deutsch,Oskar Deutsch,PER,-2.0,0.0,de,1.0
+Regierungschefin Takaichi,Regierungschefin Takaichi,PER,-1.0,0.0,de,1.0
