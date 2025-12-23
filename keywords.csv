@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tsunami Tote',de,Impacts,#ffff00,#ffff00,1,0.1913060580111679
+'Tsunami Tote',de,Impacts,#ffff00,#ffff00,1,0.1903602243094927
 'Tsunami',de,Hazard,#ff0000,#ff0000,3,0.0946107596040705
-'Tsunami Schäden',de,Impacts,#ffff00,#ffff00,1,0.09139474594671454
+'Tsunami Schäden',de,Impacts,#ffff00,#ffff00,1,0.0913947459467145
 'Tsunami Warnung',de,Mitigation,#00ff00,#00ff00,1,0.0863573248715496
 'Seebeben',de,Causes,#00ffff,#00ffff,1,0.080545644619867
 'Tsunami Frühwarnsystem',de,Adaptation,#0000ff,#0000ff,1,0.0780320428881948
