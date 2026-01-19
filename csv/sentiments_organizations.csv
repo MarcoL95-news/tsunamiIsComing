@@ -1,23 +1,27 @@
 ,phrase,label,sentiment,subjectivity,language,count
 +++Tsunami-Warnung,+++Tsunami-Warnung,ORG,1.2031250000000004,0.0,de,6.399999999999999
 Großraum Tokio,Großraum Tokio,ORG,0.30434782608695654,0.0,de,4.6
-Tsunami-Gefahr,Tsunami-Gefahr,ORG,-0.25,0.0,de,2.8
 Tsunami,Tsunami,ORG,0.0,0.0,de,2.8
-Brüsseler Peso,Brüsseler Peso,ORG,0.0,0.0,de,1.9
+Tsunami-Gefahr,Tsunami-Gefahr,ORG,-0.25,0.0,de,2.8
+Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.9
+TK,TK,ORG,0.3684210526315789,0.0,de,1.9
 picture alliance,picture alliance,ORG,0.0,0.0,de,1.9
 ASSOCIATED PRESS,ASSOCIATED PRESS,ORG,0.0,0.0,de,1.9
-TK,TK,ORG,0.3684210526315789,0.0,de,1.9
+GEO,GEO,ORG,1.0526315789473684,0.0,de,1.9
+Brüsseler Peso,Brüsseler Peso,ORG,0.0,0.0,de,1.9
 Russland…,Russland…,ORG,0.0,0.0,de,1.9
-Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.9
-AKW Kashiwazaki-Kariwa,AKW Kashiwazaki-Kariwa,ORG,0.0,0.0,de,1.0
-Pr…,Pr…,ORG,0.0,0.0,de,1.0
-TV,TV,ORG,-0.7,0.0,de,1.0
-Meteorologiebehörde,Meteorologiebehörde,ORG,0.0,0.0,de,1.0
-Capcom,Capcom,ORG,-1.0,0.0,de,1.0
+GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.0,0.0,de,1.0
 infol…,infol…,ORG,0.0,0.0,de,1.0
-Nordo…,Nordo…,ORG,0.0,0.0,de,1.0
+Capcom,Capcom,ORG,-1.0,0.0,de,1.0
+Meteorologiebehörde,Meteorologiebehörde,ORG,0.0,0.0,de,1.0
+Pr…,Pr…,ORG,0.0,0.0,de,1.0
+Italien,Italien,ORG,0.0,0.0,de,1.0
 AfD,AfD,ORG,0.0,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
+Nordo…,Nordo…,ORG,0.0,0.0,de,1.0
+AKW Kashiwazaki-Kariwa,AKW Kashiwazaki-Kariwa,ORG,0.0,0.0,de,1.0
 Big Tech,Big Tech,ORG,0.0,0.0,de,1.0
+TV,TV,ORG,-0.7,0.0,de,1.0
 Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
 Gesellschaft bedrohen,Gesellschaft bedrohen,ORG,0.0,0.0,de,1.0
 bild…,bild…,ORG,0.7,0.0,de,1.0
@@ -25,9 +29,8 @@ lno,lno,ORG,-0.85,0.0,de,1.0
 unerbittli…,unerbittli…,ORG,-0.7,0.0,de,1.0
 Zyklon Ditwah,Zyklon Ditwah,ORG,0.0,0.0,de,1.0
 Sumatra,Sumatra,ORG,0.0,0.0,de,1.0
-GEO,GEO,ORG,1.0,0.0,de,1.0
 Nasa,Nasa,ORG,0.0,0.0,de,1.0
 rechtz…,rechtz…,ORG,-1.0,0.0,de,1.0
 Üb…,Üb…,ORG,-1.0,0.0,de,1.0
 ntv.de,ntv.de,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
+f…,f…,ORG,1.0,0.0,de,1.0
