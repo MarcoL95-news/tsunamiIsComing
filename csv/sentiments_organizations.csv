@@ -11,15 +11,15 @@ USGS,USGS,ORG,0.0,0.0,de,3.6999999999999993
 FREIBURG,FREIBURG,ORG,0.7499999999999999,0.0,de,2.8
 JMA,JMA,ORG,0.0,0.0,de,2.8
 Tsunami-Gefahr,Tsunami-Gefahr,ORG,-0.25,0.0,de,2.8
-dr…,dr…,ORG,0.0,0.0,de,1.9
+USGS Japan,USGS Japan,ORG,0.7368421052631579,0.0,de,1.9
 TTS-Player,TTS-Player,ORG,0.7368421052631579,0.0,de,1.9
 TK,TK,ORG,0.3684210526315789,0.0,de,1.9
 AKW Kashiwazaki-Kariwa,AKW Kashiwazaki-Kariwa,ORG,0.3684210526315789,0.0,de,1.9
 Brüsseler Peso,Brüsseler Peso,ORG,0.0,0.0,de,1.9
-https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.9
+dr…,dr…,ORG,0.0,0.0,de,1.9
 Russland…,Russland…,ORG,0.0,0.0,de,1.9
 Super-GAU,Super-GAU,ORG,0.0,0.0,de,1.9
-USGS Japan,USGS Japan,ORG,0.7368421052631579,0.0,de,1.9
+https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.9
 ASSOCIATED PRESS,ASSOCIATED PRESS,ORG,0.0,0.0,de,1.9
 Fukushima,Fukushima,ORG,-0.3684210526315789,0.0,de,1.9
 Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.9
@@ -32,8 +32,8 @@ US-Erdbebenwarte USGS Japan,US-Erdbebenwarte USGS Japan,ORG,0.7,0.0,de,1.0
 Katastrophenschutzbehö…,Katastrophenschutzbehö…,ORG,0.0,0.0,de,1.0
 nordös…,nordös…,ORG,0.0,0.0,de,1.0
 Gebäudes…,Gebäudes…,ORG,0.0,0.0,de,1.0
-Japan …,Japan …,ORG,0.0,0.0,de,1.0
 Wellenhöhe,Wellenhöhe,ORG,0.0,0.0,de,1.0
+Japan …,Japan …,ORG,0.0,0.0,de,1.0
 Lan…,Lan…,ORG,0.0,0.0,de,1.0
 Landwirtsc…,Landwirtsc…,ORG,0.5,0.0,de,1.0
 Zoonar,Zoonar,ORG,0.0,0.0,de,1.0
