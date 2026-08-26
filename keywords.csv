@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tsunami Warnung',de,Mitigation,#00ff00,#00ff00,3,0.0614400079686516
+'Tsunami Warnung',de,Mitigation,#00ff00,#00ff00,2,0.05222496677335386
 'Tsunami Schäden',de,Impacts,#ffff00,#ffff00,2,0.0325802430393541
 'Seebeben',de,Causes,#00ffff,#00ffff,1,0.0314496157318099
 'Tsunami Evakuierung',de,Mitigation,#00ff00,#00ff00,1,0.0312613337809227
